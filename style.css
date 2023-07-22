@@ -34,7 +34,7 @@ body {
   flex-direction: column;
   height: 32rem;
   padding: 4rem;
-  background-image: url("cinema.jpg");
+  background-image: url("cinema.webp");
   background-position: center;
   background-size: cover;
   z-index: 0;
